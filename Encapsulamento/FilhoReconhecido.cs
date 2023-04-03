@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Encapsulamento
 {
-    class FilhoReconhecido : SubCelebridade
+    public class FilhoReconhecido : SubCelebridade
     {
         public new void MeusAcessos()
         {
